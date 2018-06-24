@@ -115,6 +115,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.tab.SuspendLayout();
             this.tab1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.danhsachuserroledg)).BeginInit();
@@ -909,6 +910,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.button6);
             this.groupBox1.Controls.Add(this.button5);
             this.groupBox1.Controls.Add(this.checkedListBox3);
             this.groupBox1.Controls.Add(this.label5);
@@ -1054,6 +1056,15 @@
             this.button5.Text = "button5";
             this.button5.UseVisualStyleBackColor = true;
             // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(410, 166);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(75, 23);
+            this.button6.TabIndex = 38;
+            this.button6.Text = "button6";
+            this.button6.UseVisualStyleBackColor = true;
+            // 
             // QuanLyLopHoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1191,5 +1202,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
     }
 }
