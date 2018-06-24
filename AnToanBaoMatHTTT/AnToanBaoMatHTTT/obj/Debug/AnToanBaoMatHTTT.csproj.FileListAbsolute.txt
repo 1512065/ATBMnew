@@ -11,3 +11,6 @@ C:\Users\Ti\Desktop\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT
 C:\Users\duyen\Desktop\ATBM_24_6\ATBM\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\AnToanBaoMatHTTT.exe.config
 C:\Users\duyen\Desktop\ATBM_24_6\ATBM\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.exe
 C:\Users\duyen\Desktop\ATBM_24_6\ATBM\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.pdb
+D:\GitHub\ATBMnew\AnToanBaoMatHTTT\AnToanBaoMatHTTT\bin\Debug\AnToanBaoMatHTTT.exe.config
+D:\GitHub\ATBMnew\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.exe
+D:\GitHub\ATBMnew\AnToanBaoMatHTTT\AnToanBaoMatHTTT\obj\Debug\AnToanBaoMatHTTT.pdb
